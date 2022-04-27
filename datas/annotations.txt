@@ -1,0 +1,4 @@
+No_Pain 0
+Weak_Pain 1
+Middle_Pain 2
+Strong_Pain 3
